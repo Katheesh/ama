@@ -1,7 +1,7 @@
 # AMA
 # Ask Me Anything!
 
-## [Ask a question](https://github.com/Katheesh/AMA/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/Katheesh/AMA/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/Katheesh/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/Katheesh/ama/issues?q=is%3Aissue+is%3Aclosed)
 
 This way anyone can read the answer.
 
