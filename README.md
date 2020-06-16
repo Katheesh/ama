@@ -12,6 +12,14 @@ This way anyone can read the answer.
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on StackOverflow.
 
--
 
 *I can also be reached on [Twitter](https://twitter.com/ikatheesh) and [email](mailto:ikatheesh@gmail.com), but I prefer this medium.*
+
+
+#### Github Bio
+
+💢 Software Dev Engineer 
+💢 Open Source Contributor
+💢 IOT Optimizer
+💢 Entrepreneur
+💢
