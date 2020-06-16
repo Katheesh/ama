@@ -10,10 +10,10 @@ This way anyone can read the answer.
 - Ensure your question haven't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on StackOverflow.
+- Support questions are better asked on [Github Issues](https://github.com/Katheesh/ama/issues/new).
 
 
-*I can also be reached on [dev](https://dev.to/ikatheesh) and [email](mailto:ikatheesh@gmail.com), but I prefer this medium.*
+*I can also be reached on [dev](https://dev.to/katheesh) and [email](mailto:ikatheesh@gmail.com), but I prefer this medium.*
 
 
 #### My Github Bio
