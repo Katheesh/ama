@@ -13,13 +13,17 @@ This way anyone can read the answer.
 - Support questions are better asked on StackOverflow.
 
 
-*I can also be reached on [Twitter](https://twitter.com/ikatheesh) and [email](mailto:ikatheesh@gmail.com), but I prefer this medium.*
+*I can also be reached on [dev](https://dev.to/ikatheesh) and [email](mailto:ikatheesh@gmail.com), but I prefer this medium.*
 
 
-#### Github Bio
+#### My Github Bio
 
 💢 Software Dev Engineer 
 💢 Open Source Contributor
 💢 IOT Optimizer
 💢 Entrepreneur
-💢
+
+👨‍💻 Software Dev Engineer 
+📡 Open Source Contributor
+📟 IOT Optimizer
+🚀 Entrepreneur
