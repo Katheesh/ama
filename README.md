@@ -22,8 +22,10 @@ This way anyone can read the answer.
 💢 Open Source Contributor
 💢 IOT Optimizer
 💢 Entrepreneur
+💢 Technologist
 
 👨‍💻 Software Dev Engineer 
 📡 Open Source Contributor
 📟 IOT Optimizer
 🚀 Entrepreneur
+🛰 Technologist
