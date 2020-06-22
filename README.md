@@ -16,16 +16,28 @@ This way anyone can read the answer.
 *I can also be reached on [dev](https://dev.to/katheesh) and [email](mailto:ikatheesh@gmail.com), but I prefer this medium.*
 
 
-#### My Github Bio
-
+## My Github Bio
+###### normal view
 💢 Software Dev Engineer 
 💢 Open Source Contributor
 💢 IOT Optimizer
 💢 Entrepreneur
 💢 Technologist
 
+###### Emogi view
 👨‍💻 Software Dev Engineer 
 📡 Open Source Contributor
 📟 IOT Optimizer
 🚀 Entrepreneur
 🛰 Technologist
+
+## Daily Used Desktop Apps (LINUX)
+- Google Chrome
+- Terminal
+- Sublime Text
+- VLC Media Player
+- Discord
+
+
+
+
