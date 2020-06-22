@@ -17,14 +17,14 @@ This way anyone can read the answer.
 
 
 ## My Github Bio
-###### normal view
+> ###### normal view
 💢 Software Dev Engineer 
 💢 Open Source Contributor
 💢 IOT Optimizer
 💢 Entrepreneur
 💢 Technologist
 
-###### Emogi view
+> ###### Emogi view
 👨‍💻 Software Dev Engineer 
 📡 Open Source Contributor
 📟 IOT Optimizer
@@ -38,6 +38,10 @@ This way anyone can read the answer.
 - VLC Media Player
 - Discord
 
-
+### Sometimes Using Apps
+- Android Studio
+- Arduino IDE
+- Telegram
+- AnyDesk
 
 
