@@ -1,0 +1,19 @@
+Domain Renewel = 7000 /=
+
+Desktop Application [We need 3 Days] = 5000 /=
+	- UI modify (logo, Background picture)
+	- Buid, Setup, and Create Installation Disk 
+
+Web Application (www.aulanka.com) [we need 5 Days] 	= 10000 /=
+	- Create New user type
+	- Improve perfomance
+	- Create resposive table in List Students
+
+
+Web API Development  (We need 10 days)
+	- Handle HTTP request
+	- Send JSON Response
+	- setup client Web Application as www.battiwestzone.lk
+		-- Create requst fuctions
+		-- Create displaying User Interfaces
+
